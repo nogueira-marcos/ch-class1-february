@@ -1,0 +1,127 @@
+body{
+  background-color:white;
+
+
+}
+
+.navbar .container{
+  background-color:#293030;
+
+}
+
+.navbar-default {
+background: #2a3133;
+height: 100px;
+width: 100%;
+display: block;
+border-color: transparent;
+
+}
+
+.navbar-default .navbar-nav > li > a {
+color:orange;
+display:flex;
+justify-content: center;
+text-align: center;
+margin: 25px 0 0 0;
+
+}
+
+.call-to-action {
+height: 800px;
+background-image: url(../IMG/bastion-images/1408083032113_Bastion_112010_0002.jpg);
+margin:0 auto;
+background-size: cover;
+background-position: center;
+}
+
+.call-center{
+  text-align: center;
+  position: relative;
+  padding-top: 450px;
+}
+
+.call-center h1{
+font-size: 50px;
+color: white;
+text-transform: uppercase;
+}
+
+.row {
+padding-top: 30px;
+width: 100%;
+padding-bottom: 30px;
+
+
+}
+
+.fadeInDown h3{
+  font-size: 20px;
+  text-transform: uppercase;
+  color: purple;
+  text-align: center;
+  font-weight: bold;
+}
+
+.semeie{
+  background-color: #fcfcfc;
+  height:400px;
+}
+
+.content {
+  margin-top: 40px;
+  width: 600px;
+
+
+}
+
+.content h2{
+  color: orange;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 30px;
+
+}
+
+.content p{
+  font-size: 20px;
+
+}
+
+.pull-right h3{
+  color: orange;
+  font-weight: bold;
+  font-size: 30px;
+  text-transform: uppercase;
+}
+
+.call-to-action-2{
+  width: 100%;
+  height: 210px;
+  background-image: url(../IMG/BG_ending.jpg);
+
+}
+
+.call-center-2{
+color: white;
+text-align: center;
+}
+
+footer {
+  width: 100%;
+  background-color: gray;
+
+
+}
+
+.coluna {
+  color: white;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.coluna a {
+  color: white;
+  font-weight: bold;
+  text-transform: uppercase;
+}
